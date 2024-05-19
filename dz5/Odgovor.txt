@@ -1,0 +1,1 @@
+Ovaj obrazac je dekorater i on pripada obrascima strukture.
